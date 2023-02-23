@@ -6,7 +6,7 @@
 
 ### Links
 
-- Solution URL: [Solution URL]()
+- Solution URL: [Solution URL](https://github.com/savvykhai/3-column-preview-card-component.git)
 - Live Site URL: [live Site URL](https://3-column-preview-card-component-nb8fl099w-savvykhai.vercel.app)
 
 ### Built with
